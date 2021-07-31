@@ -2,9 +2,8 @@
 Mini test using behave and punkapi (beer related for fun)
 
 To get started you should have pipenv https://pipenv.pypa.io/en/latest/
-Once in the project folder you can go by pipenv shell and then write pipenv install
-This will download the modules for you.
-
+Once in the project folder you can go by pipenv shell and then write pipenv install,
+this will download the modules for you.
 
 >To run the tests cd into API folder and behave in console.
 

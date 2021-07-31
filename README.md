@@ -5,7 +5,7 @@ To get started you should have pipenv https://pipenv.pypa.io/en/latest/
 Once in the project folder you can go by pipenv shell and then pipenv install
 This will download the modules for you.
 
->To run the tests cd into API folder and behave in console.<
+>To run the tests cd into API folder and behave in console.
 
 I used behave for bdd test and requests to make api calls.
 

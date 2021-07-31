@@ -6,3 +6,6 @@ Once in the project folder you can go by pipenv shell and then pipenv install
 This will download the modules for you.
 
 I used behave for bdd test and requests to make api calls.
+
+There is a print I left for you to see.
+Use behave --no-capture to see de output so you can be really sure that the assertion works.
